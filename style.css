@@ -87,7 +87,9 @@ img {
 footer, p {
   text-align: center;
 }
-
+.center{
+  text-align: center;
+}
 /* Other page elements */
 hr {
   border: 1px solid black;
