@@ -52,7 +52,7 @@ article div {
 /* Paragraphs */
 p {
   line-height: 1.5;
-  text-align: center;
+  text-align: left;
 }
 li {
   text-align: left;
@@ -84,7 +84,7 @@ img {
 }
 
 /* Footer */
-footer, p {
+footer{
   text-align: center;
 }
 .center{
