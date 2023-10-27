@@ -94,3 +94,6 @@ footer{
 hr {
   border: 1px solid black;
 }
+.left{
+  text-align: left;
+}
